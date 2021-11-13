@@ -19,3 +19,6 @@
 - http
 - flutter_native_splash
 - shared_preferences
+
+
+###### Daksh Bhatia
